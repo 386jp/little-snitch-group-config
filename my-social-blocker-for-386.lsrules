@@ -1,0 +1,42 @@
+{
+	"description": "My social blocker for 386",
+	"name": "My social blocker for 386",
+	"rules": [
+		{
+			"action": "deny",
+			"owner": "me",
+			"process": "any",
+			"remote-domains": "twitter.com"
+		},
+		{
+			"action": "deny",
+			"owner": "me",
+			"process": "any",
+			"remote-domains": "www.youtube.com"
+		},
+		{
+			"action": "deny",
+			"owner": "me",
+			"process": "any",
+			"remote-domains": "googlevideo.com"
+		},
+		{
+			"action": "deny",
+			"owner": "me",
+			"process": "any",
+			"remote-domains": "youtube-ui.l.google.com"
+		},
+		{
+			"action": "deny",
+			"owner": "me",
+			"process": "any",
+			"remote-domains": "ytstatic.l.google.com"
+		},
+		{
+			"action": "deny",
+			"owner": "me",
+			"process": "any",
+			"remote-domains": "youtubei.googleapis.com"
+		}
+	]
+}
