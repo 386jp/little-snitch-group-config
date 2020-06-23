@@ -37,6 +37,18 @@
 			"owner": "me",
 			"process": "any",
 			"remote-domains": "youtubei.googleapis.com"
+		},
+		{
+			"action": "deny",
+			"owner": "me",
+			"process": "any",
+			"remote-domains": "instagram.com"
+		},
+		{
+			"action": "deny",
+			"owner": "me",
+			"process": "any",
+			"remote-domains": "cdninstagram.com"
 		}
 	]
 }
