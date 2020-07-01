@@ -12,7 +12,7 @@
 			"action": "deny",
 			"owner": "me",
 			"process": "any",
-			"remote-domains": "www.youtube.com"
+			"remote-domains": "youtube.com"
 		},
 		{
 			"action": "deny",
@@ -37,6 +37,18 @@
 			"owner": "me",
 			"process": "any",
 			"remote-domains": "youtubei.googleapis.com"
+		},
+		{
+			"action": "deny",
+			"owner": "me",
+			"process": "any",
+			"remote-domains": "ytimg.com"
+		},
+		{
+			"action": "deny",
+			"owner": "me",
+			"process": "any",
+			"remote-domains": "ytimg.l.google.com"
 		},
 		{
 			"action": "deny",
